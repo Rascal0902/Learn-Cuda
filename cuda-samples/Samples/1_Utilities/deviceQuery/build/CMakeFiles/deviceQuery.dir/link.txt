@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/deviceQuery.dir/deviceQuery.cpp.o -o deviceQuery  -Wl,-rpath,/usr/local/cuda/lib64 /usr/local/cuda/lib64/libcudart.so 
