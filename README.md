@@ -1,3 +1,3 @@
 # Learn-Cuda
 
-lean cuda programming from freecodecamp
+lean cuda programming from FreeCodeCamp
